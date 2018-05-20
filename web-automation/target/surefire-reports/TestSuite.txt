@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 108.264 sec <<< FAILURE!
+setUp(com.amazon.test1.HomePageTest)  Time elapsed: 38.666 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.amazon.test1.HomePageTest.setUp(HomePageTest.java:23)
+

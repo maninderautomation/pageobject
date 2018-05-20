@@ -1,0 +1,16 @@
+com\amazon\pageobjectrepositry\TaskPage.class
+com\amazon\pageobjectrepositry\CrmPage.class
+com\amazon\pageobjectrepositry\DealsPage.class
+com\amazon\pageobjectrepositry\TestUtils.class
+com\amazon\test1\HomePageTest.class
+com\amzon\generic\ConstantData.class
+com\amazon\pageobjectrepositry\ContactsPage.class
+com\amazon\pageobjectrepositry\CrmHomePage.class
+com\amazon\test1\CrmTest.class
+com\amzon\generic\ExcelLib.class
+com\amazon\ExtendReporterListener\ExtentReporterNG.class
+com\amazon\test1\MyAccountPageTest.class
+com\amazon\test1\ContactsTest.class
+com\amazon\pageobjectrepositry\HomePage.class
+com\amzon\generic\GenericMethod.class
+com\amzon\generic\BaseClass.class

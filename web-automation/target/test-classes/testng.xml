@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Free CRM APPLICATION TEST AUTOMATION">
+
+<listeners>
+<listener class-name="com.amazon.ExtendReporterListener.ExtentReporterNG"></listener>
+</listeners>
+
+
+   <test name="Free CRM Appl Test Cases">
+        <classes>
+            <class name="com.amazon.test1.ContactsTest"></class>
+            <class name="com.amazon.test1.CrmTest"></class>
+        </classes>
+    </test>
+</suite>
